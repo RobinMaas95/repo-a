@@ -1,1 +1,2 @@
-print("Hello world!")
+print("v0.0.2")
+
