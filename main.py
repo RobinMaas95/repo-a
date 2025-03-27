@@ -4,3 +4,7 @@ print("commit")
 print("commit")
 print("commit")
 print("commit")
+
+
+def hello():
+    print("hello")
